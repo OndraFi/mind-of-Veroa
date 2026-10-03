@@ -1,0 +1,18 @@
+# Samostatné aplikační repozitáře
+/Gravia/
+/GRAVIA-CRM/
+
+# Lokální tajemství a přístupové údaje
+/render env.txt
+/fk-kody.txt
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Lokální a dočasné soubory
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
